@@ -6,6 +6,13 @@ An environment aims to address these challenges by increasing how well IT operat
 
  This structure transforms the way that teams work together and the way that software is built by bridging the gap between “dev” and “ops” and applying effective DevOps tools to mitigate data silos. Overall, a DevOps environment increases visibility to reduce the risk of uncertainty, improves error and bug detection and mitigates bottlenecks and waste in the development process.
 
+
+
+
+#### Advantages of Cloud
+Where in the past, people would run applications or programs from software downloaded on a physical computer or server in their building,which would also require high maintainance like cleaning security and if it went down business would stop. However cloud computing allows people access to the same kinds of applications through the internet without the hustle of cleaning or security or worrying about it breaking.Cloud providers have come a long way to provide, Flexibility, Disaster Recovery, Automatic software updates, Capital-expenditure Free, Increased collaboration, Work from anywhere, Security, Competitiveness, Environmentally friendly
+
+
 #### Dev Environment
 A development environment is a collection of procedures and tools for developing, testing and debugging an application or program.
 
@@ -23,9 +30,12 @@ Production Server: Once the approval is done, the application then becomes a par
 
 
 
-#### Devops problems and Solutions
+#### DevOps Solutions
 Development – writing code ,Py,SQL,HTML
 Testing – strong automated testing then you can move faster (increase speed of learning and Developing) -- increase feedback loops increase innovation reduce bugs and all the 4 pillars.quicker build, testig and more deployments.
+DevOps problems being that It may work on environment and not in another.
+
+
 
 
 
