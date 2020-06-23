@@ -1,21 +1,45 @@
 #Development Env and Vagrant 101
 
 #### What is a environment
+There are different types of environments.Development Testing and Production.This is the location where code runs and and data lives.Your machine is an environment because code runs and you develop software and web apps and other apps.
+An environment aims to address these challenges by increasing how well IT operations and development teams collaborate in order to create an environment characterized by a unified team with a multidisciplinary skillset.
+
+ This structure transforms the way that teams work together and the way that software is built by bridging the gap between “dev” and “ops” and applying effective DevOps tools to mitigate data silos. Overall, a DevOps environment increases visibility to reduce the risk of uncertainty, improves error and bug detection and mitigates bottlenecks and waste in the development process.
 
 #### Dev Environment
+A development environment is a collection of procedures and tools for developing, testing and debugging an application or program.
+
+The development environment normally has three server tiers, called development, staging and production. All three tiers together are usually referred to as the DSP.
+
+Development Server: Here is where the developer tests code and checks whether the application runs successfully with that code. Once the application has been tested and the developer feels that the code is working fine, the application then moves to the staging server.
+Staging Server:This environment is made to look exactly like the production server environment. The application is tested on the staging server to check for reliability and to make sure it does not fail on the actual production server. This type of testing on the staging server is the final step before the application could be deployed on a production server. The application needs to be approved in order to deploy it on the production server.
+Production Server: Once the approval is done, the application then becomes a part of this server.
 
 #### 4 Pillars of DevOps
+- Ease of use
+- Flexibility
+- Robustness
+- Cost
+
+
 
 #### Devops problems and Solutions
+Development – writing code ,Py,SQL,HTML
+Testing – strong automated testing then you can move faster (increase speed of learning and Developing) -- increase feedback loops increase innovation reduce bugs and all the 4 pillars.quicker build, testig and more deployments.
 
-#### Vagrant & Virtual Box
+
+
+#### Virtual Box
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License
 
 #### Vagrant
+Vagrant is an open-source software product for building and maintaining portable virtual software development environments;[5] e.g., for VirtualBox, KVM, Hyper-V, Docker containers, VMware, and AWS. It tries to simplify the software configuration management of virtualizations in order to increase development productivity. Vagrant is written in the Ruby language, but its ecosystem supports development in a few languages.
 
 
 #### Package manager
 
 #### What is a package manager
+A package manager or package-management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner.. A package manager deals with packages, distributions of software and data in archive files.
 
 #### wha is python's package manager? what about other languages?
 pip
